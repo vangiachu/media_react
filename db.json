@@ -1,5 +1,56 @@
 {
-  "users": [],
-  "album": [],
+  "users": [
+    {
+      "name": "Harold Strosin",
+      "id": 4
+    },
+    {
+      "name": "Felipe Auer Sr.",
+      "id": 7
+    },
+    {
+      "name": "Grady Jacobs",
+      "id": 8
+    },
+    {
+      "name": "Wilbert Nader",
+      "id": 9
+    },
+    {
+      "name": "Wilfred Metz",
+      "id": 10
+    },
+    {
+      "name": "Mr. Jose Dare",
+      "id": 11
+    }
+  ],
+  "albums": [
+    {
+      "userId": 4,
+      "title": "Tasty Plastic Bacon",
+      "id": 1
+    },
+    {
+      "userId": 4,
+      "title": "Handcrafted Concrete Table",
+      "id": 2
+    },
+    {
+      "userId": 4,
+      "title": "Incredible Metal Car",
+      "id": 3
+    },
+    {
+      "userId": 4,
+      "title": "Awesome Bronze Bacon",
+      "id": 4
+    },
+    {
+      "userId": 11,
+      "title": "Tasty Wooden Shoes",
+      "id": 5
+    }
+  ],
   "photos": []
 }
